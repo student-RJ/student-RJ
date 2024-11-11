@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-rj&label=Profile%20views&color=0e75b6&style=flat" alt="student-rj" /> </p>
 
 🔭 I’m currently working on Quiz Android App<br>
-🌱 I’m currently learning **DSA**<br>
-🤝 I’m actively looking for new opportunities in software development intern [Android development]<br>
+🤝 I’m currently looking for new opportunities in software development intern [Android development]<br>
 💬 Ask me about [Android development]<br>
 📫 How to reach me rj8342368@gmail.com<br>
 
